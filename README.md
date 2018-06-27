@@ -1,4 +1,4 @@
-# Bank kata
+# Bank Kata
 
 Create a simple bank application with the following features:
 
